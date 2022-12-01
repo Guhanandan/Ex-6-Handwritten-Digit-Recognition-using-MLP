@@ -17,6 +17,7 @@ To find the weights for the edges to the 1-output unit. Weights associated would
 ## Program:
 
 Doveloped by : Guhanandan V
+
 Reg No : 212221220014
 
 ~~~
@@ -124,6 +125,21 @@ def test_prediction(index, W1, b1, W2, b2):
 ~~~
 
 ## Output :
+![1](https://user-images.githubusercontent.com/100425381/205030559-9a59ac53-0683-45d6-8130-781946e039ce.png)
+
+![2](https://user-images.githubusercontent.com/100425381/205030555-977289e3-b9ff-479e-8c82-9d1189d94463.png)
+
+![3](https://user-images.githubusercontent.com/100425381/205030549-992a551a-a33f-4c60-91a6-e3d073bccee2.png)
+
+![4](https://user-images.githubusercontent.com/100425381/205030542-29c0ee35-515a-4861-adb8-15e389c42c01.png)
+
+![5](https://user-images.githubusercontent.com/100425381/205030537-84f37d36-367b-4dd1-9c73-a10de09ea1ff.png)
+
+![6](https://user-images.githubusercontent.com/100425381/205030534-0991d387-697e-48e5-96b5-072fedd2b444.png)
+
+![7](https://user-images.githubusercontent.com/100425381/205030531-c06e8f1f-dd0a-4504-bd05-131c5552d34b.png)
+
+![8](https://user-images.githubusercontent.com/100425381/205030520-af2f38c7-22e3-474b-85b9-a00103a54bec.png)
 
 
 ## RESULT:
